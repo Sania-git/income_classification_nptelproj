@@ -15,3 +15,14 @@ This repository contains a comprehensive data analysis and visualization project
 - **Machine Learning**:
   - Logistic regression and KNN model to classify income group for subsidies.
 - **Presentation on the project**
+
+**Insights**:
+- Examined the distribution of SalStat(output variable) and its correlation with other attributes.
+- Conducted statistical analysis and built Logistic regression model and KNN model to classify SalStat.
+- Provided visual and analytical insights into the factors affecting SalStat.
+- Compared the two models, its metrics and choose the more efficient one.
+
+**Example Visualizations**:
+- [Boxplot of SalStat vs age]
+
+  

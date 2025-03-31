@@ -34,3 +34,6 @@ This repository contains a comprehensive data analysis and visualization project
   For more details explore the code :
   [Logistic_regression](Logistic_reg(classification).ipynb)
   [KNN model](Knn(classification).ipynb)
+
+  **Keywords:** python,Jupyter notebook, Data Analysis, Data Visualization, Machine Learning, classification model,data preprocessing, correlation, data exploration, presentation, Statistical Analysis
+

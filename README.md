@@ -24,6 +24,6 @@ This repository contains a comprehensive data analysis and visualization project
 
 **Example Visualizations**:
 - [Boxplot of SalStat vs age]
-  https://github.com/Sania-git/income_classification_nptelproj/blob/main/boxplot%20salstat%20vs%20age.png?raw=true
+  
 
   

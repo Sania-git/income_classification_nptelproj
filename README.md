@@ -31,4 +31,6 @@ This repository contains a comprehensive data analysis and visualization project
   
   ![bar edtype count of salstat](https://github.com/Sania-git/income_classification_nptelproj/blob/main/bar%20edtype%20count%20of%20salstat.png?raw=true)
 
-  For more details explore the code : [Logistic_regression](Logistic_reg(classification).ipynb)
+  For more details explore the code :
+  [Logistic_regression](Logistic_reg(classification).ipynb)
+  [KNN model](Knn(classification).ipynb)

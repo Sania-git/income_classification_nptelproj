@@ -4,3 +4,14 @@ A python project for exploring and analyzing the income dataset and then creatin
 # Classification model based on income dataset
 ## Introduction
 This repository contains a comprehensive data analysis and visualization project based on the income dataset in python. The project explores the relationships between various attributes, performs statistical analyses, and builds predictive models to classify the income for the purpose of subsidy decision making.
+
+**Features:**
+- **Data Preprocessing**: Cleaning the dataset by handling missing values, ouliers, duplicates.
+- **Visualization**:
+  - Histograms, scatter plots, box plots, and bar plots.
+  - Correlation heatmap.
+- **Statistical Analysis**:
+  - Correlation analysis, measures of central tendency.
+- **Machine Learning**:
+  - Logistic regression and KNN model to classify income group for subsidies.
+- **Presentation on the project**

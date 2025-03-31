@@ -39,5 +39,5 @@ This repository contains a comprehensive data analysis and visualization project
 
   ....
 
-  **Project Link**: [)
+  **Project Link**: [https://github.com/Sania-git/income_classification_nptelproj)
 

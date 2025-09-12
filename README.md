@@ -1,4 +1,4 @@
-# classification_ml_proj
+# Classification_ml_proj
 A python project for exploring and analyzing the income dataset and then creating a classification model using Logistic regression and KNN.
 
 # Classification model based on income dataset
